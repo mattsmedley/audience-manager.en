@@ -24,7 +24,7 @@ This guide provides a basic overview of the main components that power [!DNL Aud
 
 This guide tries to strike a balance between general descriptions and a deep dive. However, some things are proprietary so we're just not going there. After all, there's more to special sauce than just mayonnaise and ketchup. We need to keep the pickles a secret. As always, you can check with your [!DNL Audience Manager] consultant if you have any questions. 
 
-* [Key Componenets in the Audience Manager System](/help/using/reference/system-components/components-stack.md)
+* [Key Components in the Audience Manager System](/help/using/reference/system-components/components-stack.md)
 * [Data Action Components](/help/using/reference/system-components/components-data-action.md)
 * [Data Collection Components](/help/using/reference/system-components/components-data-collection.md)
 * [Data Processing Components](/help/using/reference/system-components/components-data-processing.md)
